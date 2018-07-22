@@ -10,10 +10,12 @@
   },
   "files": [
     "test.ts",
-    "polyfills.ts"
+    "polyfills.ts",
+  "node_modules/angular4-carousel/*.ts"
   ],
   "include": [
     "**/*.spec.ts",
-    "**/*.d.ts"
+    "**/*.d.ts",
+  "node_modules/angular4-carousel/*.ts"
   ]
 }
